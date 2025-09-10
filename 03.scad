@@ -7,6 +7,6 @@ walls(thickness=5);
 
 difference(){
     bottom();
-    translate([-90/2,0,0])
+    translate([-90/2,0,00])
     cube(90,center=true);
 }
